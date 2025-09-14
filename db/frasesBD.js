@@ -1,0 +1,27 @@
+let frasesMotivacionales = [
+  "Cree en ti mismo y todo será posible.",
+  "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+  "Nunca es tarde para empezar de nuevo.",
+  "La disciplina vence al talento cuando el talento no tiene disciplina.",
+  "No cuentes los días, haz que los días cuenten.",
+  "El fracaso es la oportunidad de empezar de nuevo con más inteligencia.",
+  "Tu única limitación es tu mente.",
+  "Haz hoy lo que otros no quieren, para vivir mañana como otros no pueden.",
+  "Cada día es una nueva oportunidad para cambiar tu vida.",
+  "Sueña en grande y atrévete a fallar.",
+  "La constancia es la clave del éxito.",
+  "Nunca pares, nunca te conformes, hasta que lo bueno sea mejor y lo mejor excelente.",
+  "El esfuerzo de hoy es el éxito de mañana.",
+  "El aprendizaje es un tesoro que seguirá a su dueño a cualquier lugar.",
+  "La única forma de hacer un gran trabajo es amar lo que haces.",
+  "Cree en tus sueños, aunque otros no lo hagan.",
+  "No importa lo lento que vayas, siempre y cuando no te detengas.",
+  "El verdadero progreso está en nunca rendirse.",
+  "Cada pequeño paso te acerca a tu meta.",
+  "El éxito no es la clave de la felicidad, la felicidad es la clave del éxito.",
+  "Tu futuro se crea con lo que haces hoy, no mañana.",
+  "Haz de tu vida un sueño, y de tu sueño una realidad.",
+  "La perseverancia convierte lo imposible en inevitable.",
+];
+
+module.exports = frasesMotivacionales;
